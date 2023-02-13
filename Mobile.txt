@@ -1,0 +1,3 @@
+Name : realmi
+version : 12.0
+Ram : 4 gb
